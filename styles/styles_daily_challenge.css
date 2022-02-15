@@ -1,0 +1,19 @@
+body {
+  margin: 50px;
+}
+
+#todays-challenge {
+  color: rgb(167, 1, 78);
+  font-weight: bold;
+  font-size: 52px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+#head-image {
+  text-align: center;
+}
